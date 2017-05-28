@@ -1,17 +1,8 @@
-background {
-    background-color: purple;
-}
-h1 {
-    color: black;
-    text-align: center;
-}
-h2 {
-    color: grey:
- }
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
-br{ 
-    color: grey
-}
+<backgroung style="color:purple;"></background>
+<h1 style="color:blue;">Welcome to my website!</h1>
+<title style="color:black;">This is my website</title>
+<h2 style="color:black;">About me</h2>
+<p style="color:black;">My name is Rachelle Quek Hwee. I am a Year 1 student of Dunman High School.</p>
+<p style="color:black;">Here’s our school website link </p>
+<h2 style="color:black;">My Interests</h2>
+<p style="color:black;">Here are the things I enjoy doing:</p>
